@@ -24,3 +24,5 @@
 >
 >> Collaboration & Design & Document
 >> - Discord, ERDCloud, GitHub, Notion, Sourcetree
+>> 
+> [프로젝트 기획 문서](./펫테일 기획문서.pdf)
