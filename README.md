@@ -24,3 +24,6 @@
 >
 >> Collaboration & Design & Document
 >> - Discord, ERDCloud, GitHub, Notion, Sourcetree
+>
+>>[프로젝트 진행 깃허브 주소](https://github.com/sopiabung/NewEnergizoe)
+>
