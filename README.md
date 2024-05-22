@@ -25,5 +25,19 @@
 >> Collaboration & Design & Document
 >> - Discord, ERDCloud, GitHub, Notion, Sourcetree
 >
+> <br />
+>
+> - 실제 구현 역할
+>> 입양 게시판
+>> 
+>> - 화면구성
+>
+>> 자유게시판
+>> 
+>> - 로그인 한 회원에 한 해 글쓰기 가능, 게시글 목록 조회, 페이징, 게시글 상세 조회 
+>> - 게시글 작성 및 조회, 게시글 사진 첨부, 본인이 작성한 글에 한 해 게시글 삭제
+>
+> <br />
+>
 >[프로젝트 진행 깃허브 주소](https://github.com/sopiabung/NewEnergizoe)
 >
